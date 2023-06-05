@@ -1,3 +1,3 @@
 # SDT
-Software development technologies
+Software development technologies.
 Here you can see my workfiles about SDT.
